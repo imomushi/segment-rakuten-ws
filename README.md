@@ -1,4 +1,4 @@
-segment-rakuten-ws
+imomushi/segment-rakuten-ws
 ===========
 
 [![Build Status](https://travis-ci.org/imomushi/segment-rakuten-ws.png)](https://travis-ci.org/imomushi/segment-rakuten-ws)
@@ -8,7 +8,9 @@ segment-rakuten-ws
 To install via [Composer](http://getcomposer.org/), use the command below, it will automatically detect the latest version and bind it with `~`.
 
 ```
+composer require imomushi/worker:dev-master
 composer require imomushi/segment-rakuten-ws:dev-master
+./vendor/bin/imomushi-worker 
 ```
 
 ## Basic Usage ##
