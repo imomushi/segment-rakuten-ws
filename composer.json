@@ -1,5 +1,5 @@
 {
-    "name": "imomushi/segment-line-bot",
+    "name": "imomushi/segment-rakuten-ws",
     "description": "Rakuten Web Service API plugin for imomushi/worker",
     "license": "MIT",
     "type": "library",
